@@ -11,7 +11,7 @@ Which is the machine id of the compromised host?
 For this challenge, we have multiple files and directories with bunch of different logs/command output:
 
 `$ ls -l 
-total 588
+total 588 \n
 drwxrwxr-x  2 kali kali   4096 Jun 26 09:47  bodyfile
 drwxrwxr-x  2 kali kali   4096 Jun 26 10:56  chkrootkit
 drwxrwxr-x  2 kali kali   4096 Jun 26 10:07  hash_executables
