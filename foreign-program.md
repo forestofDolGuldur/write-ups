@@ -6,7 +6,7 @@ Description: We need you to help us find the treasures inside this file.
 
 link to the challenge: https://app.cyber-edu.co/challenges/98d79d7e-62e1-410f-9b05-d9ce0fb73dca?tenant=unbreakable
 
-In this ctf, we have a memory dump file, named foreign-program.dmp. The tools that I use are Volatiliy 2 and 3
+In this ctf, we have a memory dump, named foreign-program.dmp. The tools that I've used are Volatiliy 2 and 3
 
 **Q1. What is the name of the base operating system?Format flag: lowercase,no space**
 
