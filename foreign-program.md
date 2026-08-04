@@ -45,7 +45,7 @@ Answer: `fietsteksthost.txt.txt`
 
 **Q4. What is the PID of the process containing the memory of program X?**
 
-For this question we have to know that WSL uses Dynamic Memory Allocation and the memory is stored in another process, named vmmem.
+The machine is using WSL, and it stores the memory in another process, named vmmem.
 By looking from the same output, we see this line: `6568    vmmem   -`, and the PID of the proccess containing the memory of the program.
 
 Answer: `6568`
