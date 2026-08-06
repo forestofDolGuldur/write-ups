@@ -2,7 +2,7 @@ log-analysis 2
 Category: Forensics  
 
 
-Descirption: We know for sure that an attacker used malicious binaries and scripts in order to compromise the host. Our specialists collected the artifacts using different open-source tools. Using your favorite text editor or Terminal commands please help us find answers to the following questions.
+Description: We know for sure that an attacker used malicious binaries and scripts in order to compromise the host. Our specialists collected the artifacts using different open-source tools. Using your favorite text editor or Terminal commands please help us find answers to the following questions.  
 
 link to the challenge: https://app.cyber-edu.co/challenges/98d79d7c-4827-4d34-a68f-e1090b2e92f7?tenant=unbreakable
 
