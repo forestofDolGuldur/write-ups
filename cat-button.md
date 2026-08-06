@@ -1,5 +1,4 @@
-cat-button  
-By yakuhito  
+cat-button   
 Category: Web  
 
 
