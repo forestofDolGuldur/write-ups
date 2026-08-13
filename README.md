@@ -1,1 +1,1 @@
-Some writeups from CyberEdu ctfs
+Some writeups from CyberEdu
