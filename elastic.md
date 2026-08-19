@@ -8,7 +8,7 @@ Link to the challenge: https://app.cyber-edu.co/challenges/98d79d7b-3cb1-4646-84
 
 For this ctf, I had to find the CVE for the site, and to exploit it.
 
-Firstly, I wanted to see if elasticsearch had snapshots, by using /_snapshot in the query, and it had. 
+Firstly, after some research, I wanted to see if elasticsearch had snapshots, by using /_snapshot in the query, and it had. 
 
 Secondly, I searched elasticsearch 1.3.4 vulnerability and found the CVE-2015-5531 vulnerability, and researching more, I found a script on github (`https://github.com/nixawk/labs/blob/master/CVE-2015-5531/exploit.py`), which could exploit the site.
 
