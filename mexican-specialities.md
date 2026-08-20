@@ -1,5 +1,5 @@
 mexican-specialties  
-Category: Forensics/Steganography  
+Category: Forensics/Steganography   
 
 Description: A friend from Mexico sent me the attached picture on Telegram. What does it mean?  
 Flag is not in a standard format.  
