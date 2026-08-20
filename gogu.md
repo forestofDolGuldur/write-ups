@@ -20,7 +20,7 @@ Then I ran it again until I got the hash.
 After this I went to see the virtual memory map of this proccess, with `info proc mappings`  
 
 <img width="889" height="257" alt="image" src="https://github.com/user-attachments/assets/bc47bc96-8eb6-46b8-a702-35062d1e940c" />  
-
+ 
 I searched for the flag in the heap regions with rw-p, and I decided to look for it in this offset:`0x000000c41fff8000 0x000000c420100000` with `dump memory dump.txt 0x000000c41fff8000 0x000000c420100000`.  
 And after using `strings dump.txt` I could find the flag sitting right there.  
 
