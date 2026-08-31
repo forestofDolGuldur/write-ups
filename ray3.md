@@ -16,7 +16,7 @@ I did that by typing `export whoami=yeyy` in terminal.
 In the check function, I had a vector, and some integers, which most of them I renamed, to be more easy to analyze the binary.    
 
 <img width="415" height="567" alt="image" src="https://github.com/user-attachments/assets/f48a5757-3057-4ef9-8313-613f1fbcc7c6" />  
-
+<br>
 <img width="534" height="229" alt="image" src="https://github.com/user-attachments/assets/fcb9dfb8-62b6-4f46-9055-0049a976a37f" />  
 
 For this block of code, it checks if the argument is 17 characters long, if yes it sums all the characters from the whoami environment variable (yeyy) into yeyy_var variable, which is an integer, so it basically is 'y' + 'e' + 'y' + 'y' => 464 in decimal.  
