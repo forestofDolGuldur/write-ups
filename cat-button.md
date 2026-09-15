@@ -29,10 +29,11 @@ I copied it and went to jwt.io and pasted the cookie
 
 We see the string 
 
-``{``  
-  ``"admin": false``  
-``}``  
-
+```
+{
+  "admin": false  
+}
+```
 And we have to change it from false to true. But we need the signature.
 
 To crack the signature, I used John. Firstly, i pasted the strings into a text file `echo -n 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZG1pbiI6ZmFsc2V9.k2RUNg6FlRlfDjQUAQmDzPLrzZL0_sarBgiWtNr4cpE' > cookie.txt
