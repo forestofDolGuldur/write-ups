@@ -23,7 +23,7 @@ By pressing F12 and going to the Storage tab we see this cookie sitting there.
 
 <img width="993" height="207" alt="image" src="https://github.com/user-attachments/assets/31e8427f-1ff2-4ea9-b9dd-63da7d010a87" />
 
-I copied it and went to jwt.io (CyberChef can also be used, because the cookie is encoded in base64) and paste the cookie
+I copied it and went to jwt.io and pasted the cookie
 
 <img width="1343" height="731" alt="image" src="https://github.com/user-attachments/assets/301cded4-2807-4829-82da-63e5dd48bacd" />
 
